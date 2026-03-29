@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, i'm Kawaca 👋
 
-<!--
-**ashaziamboyv2bh/ashaziamboyv2bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+building for the web with Svelte. based in Jakarta.
 
-Here are some ideas to get you started:
+- 🔭 currently working at **PT Data Prima**
+- 🌱 learning **Redis**
+- 💬 ask me about **PostgreSQL**
+- 📍 Jakarta, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### connect
+- [Twitter](https://twitter.com/kawaca.mang)
+- [YouTube](https://youtube.com/@kawacamangTV)
+- [Website](https://kawacadev.xyz)
