@@ -1,8 +1,8 @@
-### Naradi here.
+### Hani here.
 
 Passionate about clean code and open source. Based out of Jakarta, Indonesia.
 
-- 🔭 Currently working at **PT Data Prima**
+- 🔭 Currently working at **PT ByteWorks**
 - 🌱 Actively learning **JavaScript** & **TypeScript**
 - ⚡ Fun fact: I drink way too much coffee ☕
 
@@ -11,4 +11,4 @@ Passionate about clean code and open source. Based out of Jakarta, Indonesia.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashaziamboyv2bh&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/naradi-manullang) | [Twitter / X](https://twitter.com/naradi.manu) | [Personal Site](https://naradimanu.tech)
+[Facebook](https://facebook.com/hani.marbun.26) | [Twitter / X](https://twitter.com/hani_marb) | [Mastodon](https://mastodon.social/@hani.dev) | [Personal Site](https://hani-marbun.io)
